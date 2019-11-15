@@ -6,7 +6,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+/* 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -70,11 +70,11 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-}
+} */
 
 /* Basic */
 
-	html {
+	/* html {
 		box-sizing: border-box;
 	}
 
@@ -172,14 +172,14 @@ input, select, textarea {
 		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		outline: 0;
-	}
+	} */
 
-		a:hover {
+		/* a:hover {
 			color: #E27689;
 			border-bottom-color: rgba(255, 255, 255, 0);
-		}
+		} */
 
-	sub {
+	/* sub {
 		position: relative;
 		top: 0.5em;
 		font-size: 0.8em;
@@ -208,7 +208,7 @@ input, select, textarea {
 
 	br.clear {
 		clear: both;
-	}
+	} */
 
 /* Container */
 
@@ -218,7 +218,7 @@ input, select, textarea {
 		width: 1400px;
 	}
 
-		@media screen and (min-width: 961px) and (max-width: 1880px) {
+		/* @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.container {
 				width: 1200px;
@@ -256,18 +256,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		} */
 
 /* Row */
 
-	.row {
+	/* .row {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
-	}
+	} */
 
-		.row > * {
+		/* .row > * {
 			box-sizing: border-box;
 		}
 
@@ -448,14 +448,14 @@ input, select, textarea {
 
 				.row.gtr-50.gtr-uniform > * {
 					padding-top: 20px;
-				}
+				} */
 
-		.row {
+		/* .row {
 			margin-top: -40px;
 			margin-left: -40px;
-		}
+		} */
 
-			.row > * {
+			/* .row > * {
 				padding: 40px 0 0 40px;
 			}
 
@@ -499,8 +499,8 @@ input, select, textarea {
 
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 80px;
-				}
-
+				} */
+/* 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.row {
@@ -989,9 +989,9 @@ input, select, textarea {
 							padding-top: 80px;
 						}
 
-		}
+		} */
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		/* @media screen and (min-width: 961px) and (max-width: 1320px) {
 
 			.row {
 				display: flex;
@@ -1724,15 +1724,15 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
 /* Sections/Article */
 
-	section, article {
+	/* section, article {
 		margin-bottom: 3em;
-	}
+	} */
 
-		section > :last-child,
+		/* section > :last-child,
 		section > .container, section:last-child, article > :last-child,
 		article > .container, article:last-child {
 			margin-bottom: 0;
@@ -1740,16 +1740,16 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		}
+		} */
 
 /* Image */
-
+/* 
 	.image {
 		display: inline-block;
 		border: 0;
-	}
+	} */
 
-		.image img {
+		/* .image img {
 			display: block;
 			width: 100%;
 		}
@@ -1774,14 +1774,14 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
-		}
+		} */
 
-		.image.left {
+		/* .image.left {
 			float: left;
 			margin: 0 2em 2em 0;
-		}
+		} */
 
-		.image.centered {
+		/* .image.centered {
 			display: block;
 			margin: 0 0 2em 0;
 		}
@@ -1789,7 +1789,7 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			} */
 
 /* List */
 
