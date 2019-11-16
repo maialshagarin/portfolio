@@ -1,3 +1,6 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); 
+
 sub {
     position: relative;
     top: 0.5em;
@@ -120,4 +123,4 @@ form input[type="text"],
                 background-color: #81918E;
                 background-image: url("../../images/banner.jpg");
             }
-         /* finish  */
+         /* finish */
